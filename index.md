@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I’m a PhD candidate in Computer Science at The Ohio State University advised by Andrew Perrault.
 
 ## Research Interests
 
