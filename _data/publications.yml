@@ -6,7 +6,7 @@ main:
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.00087
     code: https://github.com/Amyyyyeah/ARES
-    image: ./assets/img/ARES.pdf
+    #image: ./assets/img/ARES.pdf
     notes: EMNLP Main
 
   - title: Event Detection on Literature by Utilizing Word Embedding
