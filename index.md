@@ -8,15 +8,12 @@ Hi, I’m a PhD candidate in Computer Science at The Ohio State University advis
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Large Language Models (LLMs), Reinforcement Learning (RL), Conversational AI, and Multi-modal Systems**
+  
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** Our paper ARES is accepted to EMNLP 2024.
+
 
 {% include_relative _includes/publications.md %}
 
