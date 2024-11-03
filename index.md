@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m a PhD candidate in Computer Science at The Ohio State University advised by Andrew Perrault.
+Hi, I’m a PhD candidate in Computer Science and Engineering at The Ohio State University advised by [Andrew Perrault](https://aperrault.github.io/).
 
 ## Research Interests
 
