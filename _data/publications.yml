@@ -8,3 +8,40 @@ main:
     code: https://github.com/Amyyyyeah/ARES
     image: ./assets/img/ARES.pdf
     notes: EMNLP Main
+
+  - title: Event Detection on Literature by Utilizing Word Embedding
+    authors: <strong>Jiyun Chun</strong>, Chulyun Kim
+    conference_short: DASFAA
+    conference: The 25th International Conference on Database Systems for Advanced Applications <strong>(DASFAA)</strong>, 2020.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-59413-8_21
+    image: 
+    notes: DASFAA
+
+  - title: Deep Learning based Event Extraction from Literature
+    authors: <strong>Jiyun Chun</strong>, Chulyun Kim
+    conference_short: KCC
+    conference: Korea Computer Congres <strong>(KCC)</strong>, 2020.
+    image:
+    notes: KCC
+
+  - title: Optimization of Weights in CNN Using Genetic Algorithm
+    authors: Hyeongju Ju, Jungeun Park, <strong>Jiyun Chun</strong>, Chulyun Kim
+    conference_short: KCC
+    conference: Korea Computer Congres <strong>(KCC)</strong>, 2019.
+    image:
+    notes: KCC
+
+  - title: Blog Articles Multi-modal Ranking System based on Gender Information
+    authors: <strong>Jiyun Chun</strong>, Chulyun Kim
+    conference_short: KCC
+    conference: Korea Computer Congres <strong>(KCC)</strong>, 2018.
+    image:
+    notes: KCC
+
+  - title: Gender Classification using Face Recognition from Real-life Images
+    authors: Seoyoun Ryu, <strong>Jiyun Chun</strong>, Jiyu Lee, Chulyun Kim
+    conference_short: KCC
+    conference: Korea Computer Congres <strong>(KCC)</strong>, 2018.
+    image:
+    notes: KCC
+
