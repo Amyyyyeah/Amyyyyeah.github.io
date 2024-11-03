@@ -13,16 +13,16 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=pQt4KckAAAAJ&view_op=list_works&gmla=AL3_zigs2CfSmeXU101gXCczaPgAWltJ0q9rkULnhDp7weSUU1Wb1P6R0AxOyqREXAzG8LueOqTtBI5He9tezX9N
-cv_link: assets/files/cv.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+cv_link: assets/files/CV_Amy.pdf
+github_link: https://github.com/Amyyyyeah
+linkedin: https://www.linkedin.com/in/amy-jiyun-k-chun
+twitter: https://x.com/amy_jiyun__c
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/avatar_amy.png
+favicon: ./assets/img/favicon_amy.png
+favicon_dark: ./assets/img/favicon-dark_amy.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -38,7 +38,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
