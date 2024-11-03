@@ -1,6 +1,6 @@
 main:
 
-  - title: ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback
+  - title: "ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback"
     authors: Ju-Seung Byun*, <strong>Jiyun Chun*</strong>, Jihyung Kil, Andrew Perrault  (*Corresponding authors)
     conference_short: EMNLP
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
