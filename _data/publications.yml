@@ -2,18 +2,18 @@ main:
   - title: "Beyond Length: Context-Aware Expansion and Independence as Developmentally Sensitive Evaluation in Child Utterances"
     authors: <strong>Jiyun Chun</strong>, Eric Fosler-Lussier, Michael White, Andrew Perrault
     conference_short: EACL
-    conference: The 19th Conference of the European Chapter of the Association for Computational Linguistics <strong>(EACL)</strong>, 2026.
+    conference: The 19th Conference of the European Chapter of the Association for Computational Linguistics <strong>(EACL Main)</strong>, 2026.
    - title: "Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance"
     authors: Jingyi Chen, Zhimeng Guo, <strong>Jiyun Chun</strong>, Pichao WANG, Andrew Perrault, Micha Elsner
     conference_short: EACL
-    conference: The 19th Conference of the European Chapter of the Association for Computational Linguistics <strong>(EACL)</strong>, 2026.
+    conference: The 19th Conference of the European Chapter of the Association for Computational Linguistics <strong>(EACL Main)</strong>, 2026.
     pdf: https://arxiv.org/abs/2510.10444
     page: https://delijingyic.github.io/LISTEN-website/
     code: https://github.com/DeliJingyiC/LISTEN
   - title: "ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback"
     authors: Ju-Seung Byun*, <strong>Jiyun Chun*</strong>, Jihyung Kil, Andrew Perrault  (*Corresponding authors)
     conference_short: EMNLP
-    conference: The 2024 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+    conference: The 2024 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP Main)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.00087
     code: https://github.com/Amyyyyeah/ARES
   - title: Event Detection on Literature by Utilizing Word Embedding
