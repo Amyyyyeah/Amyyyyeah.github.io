@@ -8,9 +8,10 @@ tagline: Dual citizen (🇺🇸 Amy & 🇰🇷 Jiyun)
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+seo_title: "Amy Chun (Jiyun Chun) | PhD Student in Computer Science and Engineering"
+description: "Amy Chun (Jiyun Chun) is a PhD student in Computer Science and Engineering at The Ohio State University."
+keywords: "Amy Chun, Jiyun Chun, Ohio State University, OSU"
+canonical: "https://amyyyyeah.github.io/"
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
