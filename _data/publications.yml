@@ -3,6 +3,7 @@ main:
     authors: <strong>Jiyun Chun</strong>, Eric Fosler-Lussier, Michael White, Andrew Perrault
     conference_short: EACL
     conference: The 19th Conference of the European Chapter of the Association for Computational Linguistics <strong>(EACL)</strong>, 2026.
+    pdf: https://www.arxiv.org/abs/2602.05392
   - title: Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance
     authors: Jingyi Chen, Zhimeng Guo, <strong>Jiyun Chun</strong>, Pichao Wang, Andrew Perrault, Micha Elsner
     conference_short: EACL
