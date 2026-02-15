@@ -85,3 +85,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   color: #8861A8;   /* 네가 쓰는 global-theme-color 남색 */
   font-weight: 700;
 }
+.publications .oral {
+  color: red;
+  font-weight: 700;
+}
