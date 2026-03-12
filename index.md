@@ -8,7 +8,7 @@ Hi, I’m a PhD candidate in Computer Science and Engineering at the Ohio State 
 
 
 ## News
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+<div style="height: 200px; overflow-y: auto; padding: 10px; margin-bottom: 20px;">
 <ul>
   <li><strong>[Jan. 2026]</strong> Two papers accepted to <a href="https://2026.eacl.org/">EACL 2026</a> (Main - Oral)🎉</li>
   <li><strong>[Sep. 2025]</strong> Received research funding from the 2025 <a href="https://research.osu.edu/five-projects-receive-2025-battelle-engineering-technology-and-human-affairs-grants">BETHA (Battelle Engineering, Technology and Human Affairs) Grant</a> for the project "Towards an AI Avatar for Public Engagement."</li>
