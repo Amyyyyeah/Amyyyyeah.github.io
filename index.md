@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m a PhD candidate in Computer Science and Engineering at The Ohio State University, advised by [Andrew Perrault](https://aperrault.github.io/), with research interests in Large Language Models (LLMs), Reinforcement Learning (RL), and Multimodal Language–Speech Systems. My research focuses on understanding and evaluating how modern AI models behave in human communication settings, with a particular focus on alignment, multimodal interaction, and challenges central to interactive and agentic AI.
+Hi, I’m a PhD candidate in Computer Science and Engineering at The Ohio State University, advised by [Andrew Perrault](https://aperrault.github.io/), with research interests in Large Language Models (LLMs), Reinforcement Learning (RL), and Multimodal Language–Speech Systems. My research focuses on understanding and evaluating how AI models behave in human communication settings, with a particular focus on alignment, multimodal interaction, and challenges central to interactive and agentic AI.
 
 ## News
 <div style="height: 200px; overflow-y: auto; padding: 10px; margin-bottom: 20px;">
