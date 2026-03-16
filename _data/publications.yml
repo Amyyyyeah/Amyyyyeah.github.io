@@ -1,6 +1,10 @@
 main:
   - title: Title to be announced
     authors: 
+    conference_short: SLT 2026 (under review)
+    conference: "<strong> SLT 2026 (Challenge Organizing Committee) </strong>(under review)"
+  - title: Title to be announced
+    authors: 
     conference_short: Interspeech 2026 (under review)
     conference: "<strong> Interspeech 2026 </strong>(under review)"
   - title: "Beyond Length: Context-Aware Expansion and Independence as Developmentally Sensitive Evaluation in Child Utterances"
