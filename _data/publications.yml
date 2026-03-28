@@ -2,8 +2,9 @@ main:
   - title: Title to be announced
     authors: 
     conference_short: SLT 2026 (under review)
-    conference: "<strong> SLT 2026 (Challenge Organizing Committee) </strong>(under review)"
+    conference: "<strong>SLT 2026 (Challenge Organizing Committee)</strong> (Conditionally Accepted; to be announced in late March)"
     pdf: https://attend.ieee.org/slt-2026/call-for-challenges/
+    page: https://betrac.github.io/
   - title: Title to be announced
     authors: 
     conference_short: Interspeech 2026 (under review)
