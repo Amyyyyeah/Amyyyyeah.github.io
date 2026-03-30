@@ -1,6 +1,6 @@
 main:
   - title: Beyond Transcription Challenge (BeTraC)
-    authors: Andrew Perrault (OSU), Jiyun Chun (OSU), Samuele Cornell (CMU), Siddhant Arora (CMU), Syed-Amad Hussain (OSU), Thomas Schaaf (Solventum/CMU), Markus Müller (AMAZON), Leibny Paola Garcia (JHU), Ahmed Hassoon (JHU)
+    authors: Andrew Perrault, Jiyun Chun, Samuele Cornell, Siddhant Arora, Syed-Amad Hussain, Thomas Schaaf, Markus Müller, Leibny Paola Garcia, Ahmed Hassoon
     conference_short: SLT 2026
     conference: "<strong>SLT 2026 (Challenge Organizing Committee)</strong>"
     pdf: https://attend.ieee.org/slt-2026/grand-challenges/
