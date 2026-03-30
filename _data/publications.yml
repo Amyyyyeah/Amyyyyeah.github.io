@@ -1,9 +1,10 @@
 main:
-  - title: Title to be announced
-    authors: 
-    conference_short: SLT 2026 (under review)
-    conference: "<strong>SLT 2026 (Challenge Organizing Committee)</strong> (Conditionally Accepted; announcement in April)"
-    pdf: https://attend.ieee.org/slt-2026/call-for-challenges/
+  - title: Beyond Transcription Challenge (BeTraC)
+    authors: Andrew Perrault (OSU), Jiyun Chun (OSU), Samuele Cornell (CMU), Siddhant Arora (CMU), Syed-Amad Hussain (OSU), Thomas Schaaf (Solventum/CMU), Markus Müller (AMAZON), Leibny Paola Garcia (JHU), Ahmed Hassoon (JHU)
+    conference_short: SLT 2026
+    conference: "<strong>SLT 2026 (Challenge Organizing Committee)</strong>"
+    pdf: https://attend.ieee.org/slt-2026/grand-challenges/
+    page: https://betrac.github.io
   - title: Title to be announced
     authors: 
     conference_short: Interspeech 2026 (under review)
