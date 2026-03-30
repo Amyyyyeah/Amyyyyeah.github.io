@@ -9,6 +9,7 @@ Hi, I’m a PhD candidate in Computer Science and Engineering at The Ohio State 
 ## News
 <div style="height: 200px; overflow-y: auto; padding: 10px; margin-bottom: 20px;">
 <ul>
+  <li><strong>[Mar. 2026]</strong> Beyond Transcription Challenge (BeTraC) was accepted as an <a href="https://attend.ieee.org/slt-2026/grand-challenges/">SLT 2026 Grand Challenge</a>🎉</li>
   <li><strong>[Jan. 2026]</strong> Two papers accepted to <a href="https://2026.eacl.org/">EACL 2026</a> (Main - Oral)🎉</li>
   <li><strong>[Sep. 2025]</strong> Received research funding from the 2025 <a href="https://research.osu.edu/five-projects-receive-2025-battelle-engineering-technology-and-human-affairs-grants">BETHA (Battelle Engineering, Technology and Human Affairs) Grant</a> for the project "Towards an AI Avatar for Public Engagement."</li>
   <li><strong>[Mar. 2025]</strong> Appointed as a full-time researcher for the 2025 <a href="https://www.clsp.jhu.edu/workshops/">Frederick Jelinek Memorial Summer Workshop on Speech and Language Technology (JSALT)</a>, organized by Johns Hopkins University and held in the Czech Republic (June–August). For updates on our project, see the <a href="https://jsalt2025.fit.vut.cz/play-your-part">JSALT 2025 website</a>!</li>
