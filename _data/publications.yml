@@ -11,7 +11,7 @@ main:
     pdf: https://attend.ieee.org/slt-2026/grand-challenges/
     page: https://betrac.github.io
   - title: Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization
-    authors: Yanis Labrak, David Grünert, Séverin Baroudi, <strong><span style='text-decoration: underline;'>Jiyun Chun</span></strong>, Pawel Cyrta, Sergio Burdisso, Ahmed Hassoon, David Liu, Adam Rothschild, Reed Van Deusen, Petr Motlicek, Andrew Perrault, Ricard Marxer, and Thomas Schaaf.
+    authors: authors: "Yanis Labrak, David Grünert, Séverin Baroudi, <strong><span style='text-decoration: underline;'>Jiyun Chun</span></strong>, Pawel Cyrta, Sergio Burdisso, Ahmed Hassoon, David Liu, Adam Rothschild, Reed Van Deusen, Petr Motlicek, Andrew Perrault, Ricard Marxer, and Thomas Schaaf."
     conference_short: Interspeech 2026
     conference: "<strong> Interspeech 2026 </strong>"
   - title: "Beyond Length: Context-Aware Expansion and Independence as Developmentally Sensitive Evaluation in Child Utterances"
