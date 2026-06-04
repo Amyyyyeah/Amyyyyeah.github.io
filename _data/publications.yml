@@ -14,7 +14,7 @@ main:
     authors: Yanis Labrak, David Grünert, Séverin Baroudi, <strong><span style='text-decoration: underline;'>Jiyun Chun</span></strong>, Pawel Cyrta, Sergio Burdisso, Ahmed Hassoon, David Liu, Adam Rothschild, Reed Van Deusen, Petr Motlicek, Andrew Perrault, Ricard Marxer, and Thomas Schaaf.
     conference_short: Interspeech 2026
     conference: "<strong> Interspeech 2026 </strong>(under review)"
-    pdf: https://arxiv.org/abs/2604.06138 
+    pdf: https://arxiv.org/pdf/2604.06138 
   - title: "Beyond Length: Context-Aware Expansion and Independence as Developmentally Sensitive Evaluation in Child Utterances"
     authors: "<strong><span style='text-decoration: underline;'>Jiyun Chun</span></strong>, Eric Fosler-Lussier, Michael White, Andrew Perrault"
     conference_short: EACL
