@@ -1,6 +1,6 @@
 main:
   - title: Title to be announced
-    authors: 
+    authors: "<strong><span style='text-decoration: underline;'>Jiyun Chun</span></strong>, Eric Fosler-Lussier, Michael White, Andrew Perrault"
     conference_short: EMNLP 2026 (under review)
     conference: "<strong> EMNLP 2026 </strong>(under review)"
     page: https://2026.emnlp.org/
