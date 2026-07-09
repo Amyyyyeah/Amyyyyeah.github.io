@@ -4,8 +4,8 @@ main:
     conference_short: EMNLP 2026 (under review)
     conference: "<strong> EMNLP 2026 </strong>(under review)"
     page: https://2026.emnlp.org/
-  - title: Beyond Transcription Challenge (BeTraC)
-    authors: We will release the paper soon.
+  - title: Beyond Transcription Challenge (BeTraC) -- We will release the paper soon.
+    authors: Jiyun Chun, Samuele Cornell, Syed-Amad Hussain, Leibny Paola Garcia Perera, Ahmad Hassoon, Markus Müller, Thomas Schaaf, Andrew Perrault
     conference_short: SLT 2026
     conference: "<strong>SLT 2026 (Challenge Organizing Committee)</strong>"
     pdf: https://attend.ieee.org/slt-2026/grand-challenges/
